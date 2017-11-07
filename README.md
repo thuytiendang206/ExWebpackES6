@@ -23,8 +23,11 @@ b. Chuyển chuỗi ở trên thành ngày tiếng anh dạng "on Monday, ...., 
 Note: Giả thiết một tuần có 6 ngày. Không có ngày chủ nhật.
 
 ==============================================
-
+# Hướng dẫn chạy chương trình 
  cd ex01
+
  npm install
+
  webpack
+ 
  open index.html
